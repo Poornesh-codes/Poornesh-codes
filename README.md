@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Computer Science Student • Full Stack Developer • AI/ML Enthusiast
+Computer Science Student 
 </h3>
 
 <p align="center">
