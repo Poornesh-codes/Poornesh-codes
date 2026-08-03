@@ -2,12 +2,9 @@
   Hi 👋, I'm Poornesh
 </h1>
 
-<h3 align="center">
-Computer Science Student 
-</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Python+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
