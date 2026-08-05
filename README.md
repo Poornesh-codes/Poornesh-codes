@@ -89,15 +89,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Poornesh-codes/Poornesh-codes/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
 
 # 🤝 Connect with Me
 
