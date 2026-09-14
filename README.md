@@ -27,18 +27,6 @@
 <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
 </p>
 
-
-
-
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
