@@ -2,7 +2,9 @@
   Hi 👋, I'm Poornesh
 </h1>
 
-
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/5ae67440-3cd6-4183-b803-693dc42c71ec" alt ="cat">
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Always+Learning+New+Things+🚀" />
 </p>
